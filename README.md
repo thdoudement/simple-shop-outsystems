@@ -49,9 +49,4 @@ Correções de erros.
 Melhorias na interface do usuário.
 Adição de novas funcionalidades.
 
-# Contato
-Se você tiver alguma dúvida ou precisar de ajuda relacionada a este projeto, sinta-se à vontade para entrar em contato:
-
-Nome: Thiago Gomes Doudement
-Email: hyugadoudement@gmail.com
 Esperamos que este projeto seja útil para aqueles que desejam aprender mais sobre o desenvolvimento de aplicativos web usando o OutSystems. Boa sorte com seus estudos e desenvolvimento!
